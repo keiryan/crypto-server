@@ -1,3 +1,3 @@
 # crypto-server
 
-*(archived)*
+*(archived)* 📚
